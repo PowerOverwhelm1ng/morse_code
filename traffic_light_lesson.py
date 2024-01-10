@@ -2,7 +2,7 @@
 import RPi.GPIO as GPIO
 import time
 
-#Define GPIO pin numbers for the traffic lights
+#Define GPIO pin numbers for the traffic lights may have to change pins to handle buzzer wiring
 
 red_pin = 17
 yellow_pin = 27
