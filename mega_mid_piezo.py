@@ -159,6 +159,7 @@ def create_midi_file(melody, noteDurations, tempo, output_filename):
 
     mid.save(output_filename)
 
+
 def main():
     try:
         setup()
