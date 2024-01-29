@@ -13,7 +13,7 @@ melody = [N_D3, N_D3, N_D4, N_A3, 0, N_GS3, N_G3, N_F3, N_D3, N_F3, N_G3, ...]  
 noteDurations = [16, 16, 8, 6, 32, 8, 8, 8, 16, 16, 16, ...]  # Truncated for brevity
 
 # Constants
-BUZZER_PIN = 8  # GPIO pin connected to the buzzer
+BUZZER_PIN = 15  # GPIO pin connected to the buzzer
 TEMPO = 1200
 
 def setup():
